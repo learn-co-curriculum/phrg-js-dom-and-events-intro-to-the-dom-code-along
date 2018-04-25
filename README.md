@@ -212,3 +212,4 @@ surface — so it's definitely a good idea to check out MDN to up your HTML game
 [html-inline-elements]: https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-reintroduction-to-the-dom'>Reintroduction to the DOM</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Reintroduction to the DOM</p>
