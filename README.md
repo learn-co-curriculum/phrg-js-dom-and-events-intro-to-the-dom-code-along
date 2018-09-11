@@ -205,6 +205,9 @@ can even swap out image sources!
 This sums up our crash course on HTML DOM elements! We've barely scratched the
 surface — so it's definitely a good idea to check out MDN to up your HTML game!
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-intro-to-the-dom-code-along/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-dom-and-events-intro-to-the-dom-code-along/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 - [HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
